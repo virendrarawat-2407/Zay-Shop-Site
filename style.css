@@ -281,7 +281,10 @@ hr{
     margin: 2px auto;
 }
 
-
+#contactForm{
+    margin: 30px auto 30px 30px;
+    gap: 10px;
+}
 
 
 /*------ Media Query ------*/
@@ -449,4 +452,5 @@ hr{
 
     
 }
+
 
